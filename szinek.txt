@@ -1,3 +1,4 @@
 piros
 zöld
 fekete
+fehér
