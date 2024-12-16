@@ -2,3 +2,5 @@ piros
 zöld
 fekete
 fehér
+lila
+indián piros
